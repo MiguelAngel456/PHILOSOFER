@@ -1,0 +1,6 @@
+0	2 has taken a fork
+0	2 has taken a fork
+0	2 is eating
+++1713000050013++
+--1--
+0	1 died
